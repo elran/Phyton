@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#commit for git
+#commit mergi for git
 import os
 import sys
 
